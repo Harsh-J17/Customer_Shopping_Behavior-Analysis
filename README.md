@@ -126,12 +126,13 @@ Open `dashboard/customer_behavior.pbix` in Power BI Desktop.
 
 ---
 
+
+
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
-
+**Harsh Jagdale**
+- GitHub: [@Harsh-J17](https://github.com/Harsh-J17)
+- LinkedIn: [Harsh Jagdale](https://www.linkedin.com/in/harsh-jagdale-b37635332)
 ---
 
 ## 📄 License
